@@ -37,7 +37,7 @@
 
 ### 생존함수 모형 정의
 
-  <img src="https://github.com/daunJJ/Survival_Analysis/assets/109944763/0e29b4de-0cd4-4a0d-841e-f506aca91c49" width="700" height= "270"/>
+  <img src="https://github.com/daunJJ/Survival_Analysis/assets/109944763/0e29b4de-0cd4-4a0d-841e-f506aca91c49" width="700" height= "250"/>
   
 - ‘장애인 콜택시 대기시간’을 ‘생존시간’으로 정의
 - 콜택시 호출 중 ‘취소’한 경우를 ‘중도절단’으로 정의
