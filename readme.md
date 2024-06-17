@@ -16,8 +16,8 @@
 
 ## Content
 **데이터 전처리**
-- [장애인 콜택시 이용 데이터로부터 유의한 변수 생성](https://github.com/daunJJ/CallTaxi/blob/master/full_year_preprocessing.ipynb) 
-- [공공데이터포털의 다양한 인구, 위치, 교통, 복지 요인 데이터 Join 및 파생 변수 생성](https://github.com/daunJJ/CallTaxi/blob/master/table_join.ipynb)
+- [장애인 콜택시 이용 데이터 전처리 및 유의한 변수 생성](https://github.com/daunJJ/CallTaxi/blob/master/full_year_preprocessing.ipynb) 
+- [인구, 위치, 교통, 복지 요인 데이터 Join 및 파생 변수 생성](https://github.com/daunJJ/CallTaxi/blob/master/table_join.ipynb)
 
 **생존함수 모형 정의**
 
